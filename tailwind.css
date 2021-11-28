@@ -871,6 +871,10 @@ video {
   height: 100%;
 }
 
+.h-\[78px\] {
+  height: 78px;
+}
+
 .w-full {
   width: 100%;
 }
@@ -972,6 +976,11 @@ video {
 
 .bg-card {
   background-color: #49566C5C;
+}
+
+.bg-\[\#E5E5E5\] {
+  --tw-bg-opacity: 1;
+  background-color: rgba(229, 229, 229, var(--tw-bg-opacity));
 }
 
 .px-4 {
