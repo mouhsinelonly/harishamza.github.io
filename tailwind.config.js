@@ -15,7 +15,8 @@ module.exports = {
               primary: '#EA3B14',
              
           },backgroundColor: {
-            card:"#49566C5C"
+            card:"#49566C5C",
+            "sticky":"rgba(11, 10, 10, 0.9)"
           }
       },
     },
